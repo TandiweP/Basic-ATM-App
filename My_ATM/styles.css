@@ -1,0 +1,30 @@
+body {
+    background-color: powderblue;
+    background-position: center;
+    text-align: center;
+}
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 10em; 
+}
+
+.info {
+    color: rgb(70, 70, 70);
+    font-size: 1.5em;
+}
+
+.warning {
+    color: darkred;
+
+}
+
+  
+  select {
+    display:inline-block;
+    margin-top: 5em;
+    margin-left: 2em;       
+    position: relative;
+
+}
+  }
+  
